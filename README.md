@@ -1,16 +1,5 @@
 # Vue+Koa+Mongodb 小练习
 
-> 作者： Pawn 
->
-> 本文首发： [Pawn博客](http://blog.lcylove.cn)
->
-> 功能： 基于vue koa mongodb进行登录，注册，留言的简单网站。
->
-> 体验地址： [http://demo.lcylove.cn](http://demo.lcylove.cn)
->
-> github: [https://github.com/LiChangyi/demo1](https://github.com/LiChangyi/demo1)
-
-## 前面的话
 
 ### 原因
 
